@@ -1,2 +1,2 @@
 # cv
-My 1st project for Web Development course
+My 1st ever dev project
